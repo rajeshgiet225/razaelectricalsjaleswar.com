@@ -1,0 +1,187 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.razaelectricals.com" resolutions="1x" timestamp="1646476237306">
+  <folder name="css">
+    <file name="site_global.css" crc="4207308428"/>
+    <file name="master_a-master.css" crc="3999788028" ref="about:index:contact:portfolio:services"/>
+    <file name="about.css" crc="155290556" ref="about"/>
+    <file name="index.css" crc="3953999143" ref="index"/>
+    <file name="contact.css" crc="4264735559" ref="contact"/>
+    <file name="portfolio.css" crc="4268485976" ref="portfolio"/>
+    <file name="services.css" crc="4106398284" ref="services"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:services:portfolio:contact"/>
+    <file name="museutils.js" crc="3939489907" ref="index:about:services:portfolio:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:services:portfolio:contact"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:about:services:portfolio:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:about:services:portfolio:contact"/>
+    <file name="webpro.js" crc="3856315280" ref="index:about:services:portfolio:contact"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:about:services:portfolio:contact"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:about:services:portfolio:contact"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:about:services:portfolio:contact"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:about:services:portfolio:contact"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:about:services:portfolio:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:services:portfolio:contact"/>
+    <file name="require.js" crc="4177726516" ref="index:about:services:portfolio:contact"/>
+    <file name="form_check.php" crc="4108222811" ref="contact"/>
+    <file name="form_throttle.php" crc="503802655" ref="contact"/>
+    <file name="form_process.php" crc="260214869" ref="contact"/>
+    <file name="form-u585.php" crc="3917008021" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="maxresdefaultheader.jpg" crc="4054933166" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3862-4.png" crc="4098475800" ref="index:about:services:portfolio:contact"/>
+    <file name="phone-grey.png" crc="21956100" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mail-grey.png" crc="4232297979" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dribble.jpg" crc="3900312861" seo="true" ref="index:about:services:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="facebook.jpg" crc="3814358492" seo="true" ref="index:about:services:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="linkedin.jpg" crc="4032340596" seo="true" ref="index:about:services:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="rss.png" crc="4144695932" seo="true" ref="index:about:services:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="pinterest.jpg" crc="340003248" seo="true" ref="index:about:services:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="twitter.jpg" crc="462041627" seo="true" ref="index:about:services:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="maxresdefault-crop-u3867.jpg" crc="7709821" seo="true" ref="index:about:services:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:services:portfolio:contact"/>
+    <file name="photo_2019-04-05_18-52-45201904080826-crop-u3865.jpg" crc="306691086" seo="true" ref="index:about:services:portfolio:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="untitled-2-u4396-fr.png" crc="3936653813" ref="index"/>
+    <file name="whatsapp image 2022-02-26 at 160519 (4)-u4403-fr.jpg" crc="284522496" ref="index"/>
+    <file name="uneap89dlb74-pprjaah3ru2rmithn605a1snai_11-01-16_03-08-43.jpg" crc="3964443021" ref="index:about">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="51zq3ibrhll_sl1200_.jpg" crc="4126462010" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="wall_switch_and_receptacle_-_american_types-480x480-u4404-fr.jpg" crc="4009890476" ref="index"/>
+    <file name="maxresdefault (1).jpg" crc="3948189537" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="maxresdefault (2).jpg" crc="516710258" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b86494d1d99e4de6d0c7a5b758a81b82.jpg" crc="4096318357" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="images.jpg" crc="514585748" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="multi-strand-copper-wire-500x500.jpg" crc="4256670906" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="home-electrical-switch-500x500.jpg" crc="4067700490" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="rocker-switches.jpg" crc="211593562" ref="index:services:portfolio">
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="electrical-switch-500x500.jpg" crc="4023807288" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="colour-led-bulbs-500x500.jpg" crc="221481206" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="9197-2.jpg" crc="4191052746" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="images (1).jpg" crc="3767115171" ref="index:portfolio">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-2.jpg" crc="140975146" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="wall_switch_and_receptacle_-_american_types-480x480.jpg" crc="367434931" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="m1-u4936-a-fr.jpg" crc="175505676" ref="about"/>
+    <file name="m2-u4934-a-fr.jpg" crc="3880903787" ref="about"/>
+    <file name="m4.jpg" crc="4062516401" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="finolex-cables.jpg" crc="4154046728" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="whatsapp image 2022-02-26 at 160519 (4).jpg" crc="4281737819" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="home-electrical-switch-500x500-u2000-fr.jpg" crc="3865100458" ref="portfolio"/>
+    <file name="b86494d1d99e4de6d0c7a5b758a81b82-u1981-fr.jpg" crc="4286267728" ref="portfolio"/>
+    <file name="wall_switch_and_receptacle_-_american_types-480x480-u2135-fr.jpg" crc="3951039423" ref="portfolio"/>
+    <file name="9197-2-u2136-fr.jpg" crc="267799573" ref="portfolio"/>
+    <file name="uneap89dlb74-pprjaah3ru2rmithn605a1snai_11-01-16_03-08-43-u1934-fr.jpg" crc="3794203919" ref="portfolio"/>
+    <file name="uneap89dlb74-pprjaah3ru2rmithn605a1snai_11-01-16_03-08-43-u1953-fr.jpg" crc="4111507592" ref="portfolio"/>
+    <file name="colour-led-bulbs-500x500-u2139-fr.jpg" crc="4153639644" ref="portfolio"/>
+    <file name="whatsapp image 2022-02-26 at 160321 (1).jpg" crc="4064853195" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="multi-strand-copper-wire-500x500-u2140-fr.jpg" crc="126838241" ref="portfolio"/>
+    <file name="whatsapp image 2022-02-26 at 160519 (4)-u2141-fr.jpg" crc="3864773151" ref="portfolio"/>
+    <file name="kindpng_3509715.png" crc="293218395" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="409447057" seo="true" mt="1646475705251" redirect="true"/>
+  <file name="about.html" crc="3785550540" seo="true" mt="1646475704620" redirect="true"/>
+  <file name="services.html" crc="4261847804" seo="true" mt="1646475705503" redirect="true"/>
+  <file name="portfolio.html" crc="31839454" seo="true" mt="1646475705277" redirect="true"/>
+  <file name="contact.html" crc="469729511" seo="true" mt="1646473883524" redirect="true"/>
+</manifest>
